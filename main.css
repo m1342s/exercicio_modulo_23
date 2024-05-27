@@ -70,3 +70,7 @@ header .container {
 .numbers-item h4 {
     font-size: .3em;
 }
+
+.reposNumber{
+    display: block;
+}
